@@ -1,0 +1,16 @@
+C:\Users\alder\source\repos\Lab2\Lab2Console\obj\Debug\netcoreapp3.1\Lab2Console.csprojAssemblyReference.cache
+C:\Users\alder\source\repos\Lab2\Lab2Console\obj\Debug\netcoreapp3.1\Lab2Console.AssemblyInfoInputs.cache
+C:\Users\alder\source\repos\Lab2\Lab2Console\obj\Debug\netcoreapp3.1\Lab2Console.AssemblyInfo.cs
+C:\Users\alder\source\repos\Lab2\Lab2Console\obj\Debug\netcoreapp3.1\Lab2Console.csproj.CoreCompileInputs.cache
+C:\Users\alder\source\repos\Lab2\Lab2Console\bin\Debug\netcoreapp3.1\Lab2Console.exe
+C:\Users\alder\source\repos\Lab2\Lab2Console\bin\Debug\netcoreapp3.1\Lab2Console.deps.json
+C:\Users\alder\source\repos\Lab2\Lab2Console\bin\Debug\netcoreapp3.1\Lab2Console.runtimeconfig.json
+C:\Users\alder\source\repos\Lab2\Lab2Console\bin\Debug\netcoreapp3.1\Lab2Console.runtimeconfig.dev.json
+C:\Users\alder\source\repos\Lab2\Lab2Console\bin\Debug\netcoreapp3.1\Lab2Console.dll
+C:\Users\alder\source\repos\Lab2\Lab2Console\bin\Debug\netcoreapp3.1\Lab2Console.pdb
+C:\Users\alder\source\repos\Lab2\Lab2Console\bin\Debug\netcoreapp3.1\Lab2Library.dll
+C:\Users\alder\source\repos\Lab2\Lab2Console\bin\Debug\netcoreapp3.1\Lab2Library.pdb
+C:\Users\alder\source\repos\Lab2\Lab2Console\obj\Debug\netcoreapp3.1\Lab2Console.csproj.CopyComplete
+C:\Users\alder\source\repos\Lab2\Lab2Console\obj\Debug\netcoreapp3.1\Lab2Console.dll
+C:\Users\alder\source\repos\Lab2\Lab2Console\obj\Debug\netcoreapp3.1\Lab2Console.pdb
+C:\Users\alder\source\repos\Lab2\Lab2Console\obj\Debug\netcoreapp3.1\Lab2Console.genruntimeconfig.cache
