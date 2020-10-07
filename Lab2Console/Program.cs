@@ -25,6 +25,7 @@ namespace Lab2Console
             {
                 Console.WriteLine($"Shape {shapecount}: {shape}");
                 shapecount++;
+                Console.WriteLine(shape.Area);
                 averageArea += shape.Area;
 
                 if(shape is Triangle triangle)
@@ -41,7 +42,7 @@ namespace Lab2Console
             }
             
             Console.WriteLine("");
-            Console.WriteLine($"Average area of all shapes = {averageArea / 20}");
+            Console.WriteLine($"Average area of all shapes = {averageArea / shapes.Count}");
             Console.WriteLine($"Circumference of all triangles = {circumferenceOfTriangles}");
             Console.WriteLine($"The 3D-shape with the biggest volume had a volume of: {volumeOf3DShape}");
         }

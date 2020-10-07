@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Numerics;
 
@@ -50,11 +51,9 @@ namespace Lab2Library
             return $"Triangle: ({CalcCentroid(p1.X, p2.X, p3.X)}, {CalcCentroid(p1.Y, p2.Y, p3.Y)}): p1: {p1.X}, {p1.Y} p2: {p2.X}, {p2.Y} p3: { p3.X}, { p3.Y})";
         }
 
-        public IEnumerator<object> GetEnumerator()
+        public IEnumerator GetEnumerator()
         {
-            yield return p1;
-            yield return p2;
-            yield return p3;
+            return new TriangleEnumerator(p1, p2, p3);
         }
     }
 }
