@@ -1,4 +1,3 @@
-C:\Users\alder\source\repos\Lab2\Lab2Library\obj\Debug\netcoreapp3.1\Lab2Library.csprojAssemblyReference.cache
 C:\Users\alder\source\repos\Lab2\Lab2Library\obj\Debug\netcoreapp3.1\Lab2Library.AssemblyInfoInputs.cache
 C:\Users\alder\source\repos\Lab2\Lab2Library\obj\Debug\netcoreapp3.1\Lab2Library.AssemblyInfo.cs
 C:\Users\alder\source\repos\Lab2\Lab2Library\obj\Debug\netcoreapp3.1\Lab2Library.csproj.CoreCompileInputs.cache
